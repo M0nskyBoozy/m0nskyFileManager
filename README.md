@@ -10,6 +10,16 @@ File Browser provides a file managing interface within a specified directory and
 
 **Background:** [Goodbye File Browser, for Real This Time](https://hacdias.com/2026/07/28/filebrowser/), July 2026.
 
+## Tujuan Fork m0nsky
+
+Repositori ini merupakan fork resmi dari project open-source **File Browser** yang dikelola oleh tim internal **m0nsky**. Fork ini dibuat dengan tujuan utama sebagai berikut:
+
+- **Pengembangan dan penyesuaian fitur khusus untuk kebutuhan internal m0nsky.** Kami menambah, memodifikasi, dan menyesuaikan fitur agar sesuai dengan kebutuhan operasional internal, bukan hanya mengikuti rilis upstream.
+
+- **Eksperimen integrasi fitur berbasis AI/automation.** Cabang ini menjadi lingkungan eksperimen untuk mengintegrasikan kemampuan AI dan automation ke dalam alur kerja manajemen file, sebagai langkah awal menuju produk yang lebih cerdas.
+
+- **Menjaga independensi pemeliharaan kode (maintenance) secara mandiri.** Dengan catatan bahwa upstream File Browser sudah tidak lagi dipelihara (archived), kami mengambil alih tanggung jawab pemeliharaan, perbaikan bug, dan keamanan secara mandiri di dalam fork ini.
+
 ## Security
 
 Published advisories are listed under [security advisories](https://github.com/filebrowser/filebrowser/security/advisories),
